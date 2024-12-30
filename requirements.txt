@@ -1,0 +1,8 @@
+Flask==3.0.0
+langchain-community>=0.0.21
+langchain-core>=0.2.20
+langchain-ollama==0.1.0
+langchain-huggingface==0.0.2
+faiss-cpu==1.7.4  # Explicitly specify FAISS
+PyPDF2==3.0.1
+asyncio==3.4.3
