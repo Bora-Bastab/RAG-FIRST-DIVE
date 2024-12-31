@@ -26,6 +26,7 @@ Before running the project, ensure you have the following installed:
 ## Running the Project
 
 **Terminal Mode & UI Mode**
+
 Run the interactive travel assistant in the terminal:
 
 ```bash
