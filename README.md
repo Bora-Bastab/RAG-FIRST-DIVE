@@ -25,7 +25,7 @@ Before running the project, ensure you have the following installed:
    
 ## Running the Project
 
-**Terminal Mode**
+**Terminal Mode & UI Mode**
 Run the interactive travel assistant in the terminal:
 
 ```bash
@@ -34,7 +34,6 @@ Run the interactive travel assistant in the terminal:
    Enter your query (e.g., "Find hidden spots for couples in Iceland (winter)").
    View the response and source of information.
 
-**UI Mode**
 Start the Flask server:
 
 ```bash
