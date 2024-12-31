@@ -21,23 +21,24 @@ Before running the project, ensure you have the following installed:
    ```bash
    git clone https://github.com/Bora-Bastab/First_dive_into_RAG.git
    cd First_dive_into_RAG
+   ```
 
-   
 ## Running the Project
 
-**Terminal Mode & UI Mode**
+### Terminal Mode
 
-Run the interactive travel assistant in the terminal:
-
-```bash
+Run the interactive travel assistant directly in the terminal:
+   ```bash
    python query_prompting.py
+   ```
+   - Enter your query (e.g., "Find hidden spots for couples in Iceland (winter)").
+   - View the response and the source of the information.
 
-   Enter your query (e.g., "Find hidden spots for couples in Iceland (winter)").
-   View the response and source of information.
+### UI Mode
 
-Start the Flask server:
-
-```bash
+Start the Flask server to use the web interface:
+   ```bash
    python app.py
-   Open your browser and navigate to http://127.0.0.1:5000.
-   Enter your query in the UI and view the response.
+   ```
+   - Open your browser and navigate to [http://127.0.0.1:5000](http://127.0.0.1:5000).
+   - Enter your query in the UI and view the response.
